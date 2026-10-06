@@ -60,5 +60,10 @@
       "slide-06.jpg",
       "slide-07.jpg"
     ]
+  },
+  "metricool": {
+    "id": "389466563",
+    "uuid": "-4716098686513231435",
+    "status": "scheduled"
   }
 }

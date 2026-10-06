@@ -42,5 +42,10 @@
     ],
     "cover": "cover.jpg",
     "seconds": 16.0
+  },
+  "metricool": {
+    "id": "389466796",
+    "uuid": "-7606275723356385443",
+    "status": "scheduled"
   }
 }
